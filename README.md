@@ -1,3 +1,11 @@
+# fmsshafta2
+*Hafta 2 Ödevi*
+
+**[ Patika Hesabım](https://app.patika.dev/kaanyl)**
+
+React ile TodoList uygulaması 
+
+![](https://i.hizliresim.com/l4uzxgc.JPG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
